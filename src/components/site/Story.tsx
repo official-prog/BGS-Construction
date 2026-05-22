@@ -4,10 +4,10 @@ import { Award, ShieldCheck, BadgeCheck, Hammer } from "lucide-react";
 const ease = [0.22, 1, 0.36, 1] as const;
 
 const milestones = [
-  { year: "The Beginning", title: "30+ years in the trade", body: "Barney Schofield learned carpentry the old way — on the tools, on the job, in every kind of weather. What started as a passion for building became a calling that now spans three decades of hands-on construction across British Columbia." },
-  { year: "Residential", title: "Okanagan homes, built with care", body: "From Kelowna to Penticton, BGS has earned its reputation on residential builds — renovations, timber frames, decks, and siding that reflect the lifestyle and landscape of the valley." },
-  { year: "Commercial", title: "Concrete, framing & project management", body: "Expanding into commercial work, BGS added concrete forming, full-site excavation, and end-to-end project management — coordinating trades and delivering results that hold up to scrutiny." },
-  { year: "Today", title: "A team of 5, built for every build", body: "Barney leads a tight crew of 5 specialist tradespeople — fully licensed, insured, and committed to the same standard on every job, regardless of size. If you can build it, BGS can build it better." },
+  { year: "The Beginning", title: "30+ years in the trade", body: "Barney Schofield learned carpentry the old way, on the tools, on the job, in every kind of weather. What started as a passion for building became a calling that now spans three decades of hands-on construction across British Columbia." },
+  { year: "Residential", title: "Okanagan homes, built with care", body: "From Kelowna to Penticton, BGS has earned its reputation on residential builds, renovations, timber frames, decks, and siding that reflect the lifestyle and landscape of the valley." },
+  { year: "Commercial", title: "Concrete, framing & project management", body: "Expanding into commercial work, BGS added concrete forming, full-site excavation, and end-to-end project management, coordinating trades and delivering results that hold up to scrutiny." },
+  { year: "Today", title: "A team of 5, built for every build", body: "Barney leads a tight crew of 5 specialist tradespeople, fully licensed, insured, and committed to the same standard on every job, regardless of size. If you can build it, BGS can build it better." },
 ];
 
 const badges = [
@@ -33,7 +33,7 @@ export function Story() {
               Local roots. <span className="italic gradient-ember-text">Lasting results.</span>
             </h2>
             <p className="mt-6 text-muted-foreground text-lg max-w-xl">
-              BGS Construction was built in the Okanagan with one standard: show up, do the work, and do it right. Barney Schofield and his team of five bring hands-on dedication to every project — residential or commercial, renovation or new build.
+              BGS Construction was built in the Okanagan with one standard: show up, do the work, and do it right. Barney Schofield and his team of five bring hands-on dedication to every project, residential or commercial, renovation or new build.
             </p>
           </motion.div>
 

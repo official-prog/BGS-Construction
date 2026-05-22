@@ -13,7 +13,7 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "BGS Construction | Okanagan Valley, BC — Renovations, Carpentry & More" },
+      { title: "BGS Construction | Okanagan Valley, BC, Renovations, Carpentry & More" },
       { name: "description", content: "Full-service construction company serving the Okanagan Valley, BC. Renovations, carpentry, timber framing, concrete forming, excavation, siding, and decks. Call 604-786-2990." },
       { property: "og:title", content: "BGS Construction | Okanagan Valley BC" },
       { property: "og:description", content: "30+ years of construction expertise in the Okanagan. Renovations, carpentry, timber framing, concrete, siding, and custom decks. Free on-site consultations. 604-786-2990." },
@@ -36,7 +36,7 @@ export const Route = createFileRoute("/")({
           addressRegion: "BC",
           addressCountry: "CA",
         },
-        areaServed: "Okanagan Valley BC — Kelowna, Vernon, Penticton, West Kelowna, Lake Country, Summerland",
+        areaServed: "Okanagan Valley BC, Kelowna, Vernon, Penticton, West Kelowna, Lake Country, Summerland",
         sameAs: [
           "https://www.facebook.com/p/BGS-Construction-61559855762357/",
           "https://www.bgsconstruction.ca",

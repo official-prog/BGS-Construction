@@ -25,7 +25,7 @@ export function ServiceArea() {
             Okanagan based. <span className="italic gradient-ember-text">Serving the entire valley.</span>
           </h2>
           <p className="mt-6 text-muted-foreground text-lg max-w-xl">
-            BGS Construction serves homeowners and businesses across the Okanagan Valley and BC Interior. Free on-site consultations for all properties in our service area — call or visit bgsconstruction.ca to get started.
+            BGS Construction serves homeowners and businesses across the Okanagan Valley and BC Interior. Free on-site consultations for all properties in our service area, call or visit bgsconstruction.ca to get started.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-2">

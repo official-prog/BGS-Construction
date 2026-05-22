@@ -17,7 +17,7 @@ export function Contact() {
             Free quote. <span className="italic gradient-ember-text">Honest answers.</span>
           </h2>
           <p className="mt-6 text-muted-foreground text-lg max-w-md">
-            Call us, send a message, or reach out via bgsconstruction.ca. Barney answers personally and we'll get back to you fast — usually the same day.
+            Call us, send a message, or reach out via bgsconstruction.ca. Barney answers personally and we'll get back to you fast, usually the same day.
           </p>
 
           <div className="mt-12 space-y-4">
@@ -110,7 +110,7 @@ export function Contact() {
               className="group w-full inline-flex items-center justify-center gap-3 rounded-full px-7 py-4 text-white font-medium shadow-[var(--shadow-blue)] hover:scale-[1.01] cubic-cinema transition-all"
               style={{ background: "var(--gradient-brand)" }}
             >
-              {sent ? "Thanks — Barney will be in touch soon!" : "Request my free quote"}
+              {sent ? "Thanks, Barney will be in touch soon!" : "Request my free quote"}
               {!sent && <Send className="w-4 h-4 group-hover:translate-x-1 cubic-cinema transition-transform" />}
             </button>
           </div>

@@ -30,7 +30,7 @@ export function Services() {
             Every trade, every build. <span className="italic gradient-ember-text">Done right.</span>
           </h2>
           <p className="mt-5 text-muted-foreground text-lg max-w-2xl">
-            One dedicated crew, one point of contact, and a written quote before any work begins. From a single deck to a full custom build — BGS Construction covers the Okanagan Valley with craftsmanship that holds.
+            One dedicated crew, one point of contact, and a written quote before any work begins. From a single deck to a full custom build, BGS Construction covers the Okanagan Valley with craftsmanship that holds.
           </p>
         </motion.div>
 

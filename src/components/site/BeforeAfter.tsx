@@ -54,7 +54,7 @@ export function BeforeAfter() {
             </h2>
           </div>
           <p className="text-muted-foreground max-w-md">
-            Drag the seam — every project is photo-documented before and after, with a written completion report and sign-off from the client.
+            Drag the seam, every project is photo-documented before and after, with a written completion report and sign-off from the client.
           </p>
         </motion.div>
 

@@ -18,7 +18,7 @@ export function Hero() {
       <motion.div style={{ y, scale }} className="absolute inset-0 will-change-transform">
         <img
           src={heroRoof}
-          alt="BGS Construction — quality builds across the Okanagan Valley, BC"
+          alt="BGS Construction, quality builds across the Okanagan Valley, BC"
           className="w-full h-full object-cover"
           fetchPriority="high"
           width={1920}
@@ -61,7 +61,7 @@ export function Hero() {
             transition={{ duration: 1.2, ease, delay: 0.85 }}
             className="mt-8 max-w-xl text-lg text-muted-foreground"
           >
-            Full-service construction across the Okanagan Valley. Renovations, carpentry, timber framing, concrete forming, excavation, siding, and decks — delivered with 30 years of craftsmanship and a crew that signs their work.
+            Full-service construction across the Okanagan Valley. Renovations, carpentry, timber framing, concrete forming, excavation, siding, and decks, delivered with 30 years of craftsmanship and a crew that signs their work.
           </motion.p>
 
           <motion.div
